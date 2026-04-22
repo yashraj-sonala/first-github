@@ -1,3 +1,4 @@
 # first-github
-This is my first reporatiory
-author-yashraj sonala
+This is my first reporatiory.
+<br>
+author-yashraj sonala.
